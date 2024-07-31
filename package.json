@@ -13,10 +13,6 @@
     "client",
     "server"
   ],
-  "engines": {
-    "node": ">=16 <17",
-    "npm": ">=8 <9"
-  },
   "devDependencies": {
     "globals": "^15.8.0",
     "prettier": "^3.3.3",
